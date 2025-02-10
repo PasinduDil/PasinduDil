@@ -8,6 +8,24 @@
 
 ###
 
+<div>
+Hey there! I'm Pasindu Dilshan, an AI enthusiast and undergraduate student passionate about exploring the world of artificial intelligence and machine learning.
+
+🚀 Interests
+I’m deeply interested in cutting-edge AI technologies, with a focus on machine learning for medical applications, cloud technologies, and network systems. I love solving real-world problems using AI and continuously learning about advancements in the field.
+
+🌱 Current Learning Path
+Currently, I’m expanding my knowledge in supervised machine learning, AI for healthcare, and web development. I’m also exploring software engineering skills to build impactful AI-driven applications.
+
+🔗 Let’s Collaborate!
+I’m always open to collaborating on AI projects, research initiatives, and innovative applications that push the boundaries of technology. If you have an exciting project in AI, machine learning, or web development, let’s connect and create something meaningful together!
+
+⚡ Fun Fact
+Beyond AI, I enjoy gaming, creating YouTube content, and hitting the gym. Whether it’s building satisfying ASMR videos, designing magnet ball constructions, or capturing epic gaming moments, I love blending creativity with technology.
+
+Feel free to check out my work, and let’s make the future smarter—one algorithm at a time! 🚀✨
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PasinduDil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PasinduDil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
